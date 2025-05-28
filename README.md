@@ -22,5 +22,9 @@ git clone https://github.com/huhart716/EmergencyResponseApp
 4. Sync Gradle
 5. Run the app on an emulator or device
 
-## 📂 Repository Link
+# Repository Link
 [GitHub Repository](https://github.com/huhart716/EmergencyResponseApp)
+
+# Username and Password
+admin
+1234
